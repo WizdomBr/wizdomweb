@@ -127,7 +127,7 @@ html{
 }
 body {
   background-color: whitesmoke;
-  background-image: url("simbolo_gradiente@2x (1).png");
+  background-image: url("../assets/img/simbolo_gradiente@2x (1).png");
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100% !important;
