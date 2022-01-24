@@ -82,7 +82,7 @@ header > nav.wz-navbar > div.container-fluid > div.wz-main-nav {margin-top: -.2r
 header > nav.wz-navbar > div.container-fluid > div.wz-main-nav > div.wz-navbar-collapse > .wz-navbar-nav a,
 header > nav.wz-navbar > div.container-fluid > div.wz-main-nav > div.wz-navbar-collapse > .wz-navbar-nav a:visited {
   color: #F5F5F5 !important;
-  font-size: 1.2em;
+  font-size: 1.0em;
   -webkit-transition: color ease .4s;
   -moz-transition: color ease .4s;
   -ms-transition: color ease .4s;
@@ -103,7 +103,7 @@ main {
   margin: 10rem auto 0;
   z-index: 1;
 
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 
 /* ----- Carousel ----- */
@@ -113,7 +113,7 @@ main > div.wz-carousel {
 }
 
 main > div.wz-carousel > div.carousel-inner > div.carousel-item > img {
-  height: 700px !important;
+  height: 500px !important;
 }
 
 /* ----- Content ----- */
